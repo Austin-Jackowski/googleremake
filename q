@@ -1,0 +1,47 @@
+[33mcommit 6e9037166bc68645e3735c4247048ab3970458dd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 17:55:22 2019 -0500
+
+    Added header nav elements and changed apps icon to .png format
+
+[33mcommit 45680751ed65d0b3277ffb21a0f95a7138ec4d1b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 17:32:00 2019 -0500
+
+    Changed footer spans to nav for better semantics
+
+[33mcommit 44e5f5fea85f1bdb879a502b0967359482f54631[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 16:42:32 2019 -0500
+
+    Moved footer into body for better semantic structure
+
+[33mcommit 17bc53062766b1edc7bc28b3ca43cc7a0301eb31[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 16:39:41 2019 -0500
+
+    Changed meta description, added link to reset stylesheet
+
+[33mcommit 10dcfadaa8b4c5ad4c01339844804eca269c06ce[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 16:22:57 2019 -0500
+
+    Added reset.css
+
+[33mcommit cf1c060d027cda1b0d61be02d58ffd74977a4694[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 16:17:56 2019 -0500
+
+    Updated README and added footer links
+
+[33mcommit cc24c32c13880148c5a3e556c2878c1223201c37[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 15:49:43 2019 -0500
+
+    Added some image assets and organizing folders
+
+[33mcommit e79ce24c938cae56b333a88d852ded4b73268512[m
+Author: Austin Jackowski <ajackowski@gmail.com>
+Date:   Thu Jan 24 15:36:24 2019 -0500
+
+    Initial Commit
