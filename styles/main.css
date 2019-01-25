@@ -41,7 +41,7 @@ header{
   display: flex;
   align-items:center;
   height: 40px;
-  font-size: 0.7em;
+  font-size: 0.9em;
 }
 
 footer{
@@ -52,7 +52,7 @@ footer{
   height: 40px;
   width: 100%;
   background-color:#f2f2f2;
-  font-size: 0.7em;
+  font-size: 0.9em;
 }
 nav{
   display:flex;
@@ -75,6 +75,9 @@ nav a{
  position: absolute;
  right: 15px;
 }
+.foot a{
+  color: #5f6368;
+}
 
 #logo{
   display:block;
@@ -84,7 +87,7 @@ nav a{
 
 #searchbar{
   display:block;
-  margin: 0 auto;
+  margin: 10px auto;
   min-width: 460px;
   height: 40px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),
@@ -98,3 +101,22 @@ margin: 20px auto;
 text-align: center;
 }
 
+#googsearch, #luckysearch{
+  height: 40px;
+  padding: 0 16px;
+  margin: 4px 8px;
+  border: none;
+  color: #757575;
+  background-color: #f4f4f4;
+  border-radius: 2px;
+}
+
+#mic{
+  position: absolute;
+  right: 290px;
+  top: 250px;
+}
+
+main{
+  border: 1px solid black;
+}
