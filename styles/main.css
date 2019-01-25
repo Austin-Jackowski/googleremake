@@ -75,3 +75,27 @@ nav a{
  position: absolute;
  right: 15px;
 }
+
+#logo{
+  display:block;
+  margin: 100px auto;
+  margin-bottom: 0px;
+
+}
+
+main{
+  border: 1px solid black;
+}
+
+#searchbar{
+  display:block;
+  margin: 0 auto;
+  min-width: 350px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16);
+}
+
+main div{
+margin: 20px auto;
+text-align: center;
+}
+

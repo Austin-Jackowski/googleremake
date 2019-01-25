@@ -33,12 +33,14 @@
     </header>
 
     <main role="main">
-      <img src="images/googlelogo.png" alt="Google logo" height="92px" width="272px">
-      <img src="images/googlemic.jpeg" alt="Search By Voice" height="24px" width="24px">
+      <img id="logo" src="images/googlelogo.png" alt="Google logo" height="92px" width="272px">
+      <img id="mic" src="images/googlemic.jpeg" alt="Search By Voice" height="24px" width="24px">
       <form action="placeholder-file-path" method="GET">
-        <input type="text" name="SearchBar" placeholder="Enter Search">
-        <input type="submit" name="GoogleSearch" value="Google Search">
-        <input type="submit" name="LuckySearch" value="I'm Feeling Lucky">
+        <input id="searchbar" type="text" name="SearchBar" placeholder="Enter Search">
+        <div class="search-lucky">
+          <input id="googsearch" type="submit" name="GoogleSearch" value="Google Search">
+          <input id="luckysearch" type="submit" name="LuckySearch" value="I'm Feeling Lucky">
+        </div>
       </form>
 
     </main>
