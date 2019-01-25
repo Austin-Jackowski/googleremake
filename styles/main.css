@@ -79,19 +79,18 @@ nav a{
 #logo{
   display:block;
   margin: 100px auto;
-  margin-bottom: 0px;
-
-}
-
-main{
-  border: 1px solid black;
+  margin-bottom: 0px
 }
 
 #searchbar{
   display:block;
   margin: 0 auto;
-  min-width: 350px;
-  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16);
+  min-width: 460px;
+  height: 40px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),
+  0 0 0 1px rgba(0,0,0,0.08);
+  border-radius: 2px;
+  border: 1px black;
 }
 
 main div{
