@@ -14,19 +14,62 @@ body{
   width: 30px;
   height: 30px;
   border-radius: 100%;
-  display: inline-block;
+  display: flex;
+  align-items: center;
+}
+
+
+#notif-num, #acclett{
+  margin: 0 auto;
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
 }
 
 .notif{
+  width: 20px;
+  height: 20px;
   background-color: Red;
 }
 
 .googacc{
-
   background-color: Grey;
 }
 
-nav{
-  display: inline-block;
+header{
+  display: flex;
+  align-items:center;
   height: 40px;
+  border: 1px solid black;
+
+}
+
+footer{
+  display:flex;
+  align-items: center;
+  position: absolute;
+  bottom: 0px;
+  height: 40px;
+  border: 1px solid black;
+  width: 100%;
+}
+nav{
+  display:flex;
+  align-items: center;
+  height: 20px;
+}
+
+nav a{
+  text-decoration: none;
+  margin: 0 7px;
+}
+
+.l{
+  position: absolute;
+  left: 15px;
+}
+
+.r{
+ position: absolute;
+ right: 15px;
 }
