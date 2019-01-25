@@ -1,0 +1,25 @@
+/* 
+Here is my main CSS file. I'm still learning what to put first,
+what goes where, and the order I should create my rules. I made
+the initial rules first, and tried to cut out redundancy at the end
+*/
+
+body{
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+
+.notif-circle{
+  background-color: Red;
+}
+
+.googacc{
+  background-color: Grey;
+}
