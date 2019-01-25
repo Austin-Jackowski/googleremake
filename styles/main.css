@@ -29,7 +29,8 @@ body{
 .notif{
   width: 20px;
   height: 20px;
-  background-color: Red;
+  background-color: Grey;
+  opacity: 0.5;
 }
 
 .googacc{
@@ -40,8 +41,7 @@ header{
   display: flex;
   align-items:center;
   height: 40px;
-  border: 1px solid black;
-
+  font-size: 0.7em;
 }
 
 footer{
@@ -50,8 +50,9 @@ footer{
   position: absolute;
   bottom: 0px;
   height: 40px;
-  border: 1px solid black;
   width: 100%;
+  background-color:#f2f2f2;
+  font-size: 0.7em;
 }
 nav{
   display:flex;
@@ -60,6 +61,7 @@ nav{
 }
 
 nav a{
+  color: black;
   text-decoration: none;
   margin: 0 7px;
 }
